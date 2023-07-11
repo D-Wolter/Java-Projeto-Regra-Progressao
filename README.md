@@ -14,20 +14,3 @@ IDE:  IntelliJ IDEA
 Controle de Versão: Git
 
 
-Como Utilizar
-
-Clone o repositório do projeto em seu ambiente de desenvolvimento local:
-
-git clone git@github.com:D-Wolter/Java-Projeto-Regra-Progressao.git
-
-Abra a IDE e importe o projeto.
-
-Localize o arquivo App.java na estrutura do projeto e execute-o.
-
-No terminal da aplicação, digite a quantidade de atividades que deseja cadastrar quando solicitado.
-
-Para cada atividade, insira o nome, peso e nota obtida quando solicitado.
-
-Após cadastrar todas as atividades, o programa calculará automaticamente o percentual de desempenho.
-
-O resultado da avaliação será exibido no terminal, informando se o estudante foi aprovado ou reprovado.
